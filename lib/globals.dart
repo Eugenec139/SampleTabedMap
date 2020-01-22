@@ -1,6 +1,6 @@
 library my_prj.globals;
 import 'package:flutter/material.dart';
-import '../kupeza.dart';
+import 'kupeza.dart';
 
 const kGoogleApiKey = "AIzaSyDEIMjYd-mOfWIulF39YFFYGzIXa5vlU-g";
 String url = 'https://kupeza.co.zm/api/newsearcher?location=Lusaka';
